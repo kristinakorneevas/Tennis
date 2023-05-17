@@ -253,11 +253,11 @@ article.blog-entry {
     min-height: 100px;
     margin: 0 20px;
     padding: 10px;
-    background-color: hsl(140, 74%, 90%), 39%, 80%);
+    background-color: #bbf0cf;
     border-radius: 5px;
     overflow: hidden;
     /*доб */
-    box-shadow: 0 0 3px hsl(139, 24%, 31%), 39%, 80%);
+    box-shadow: 0 0 3px #135e2f;
 }
 /***/
 @media screen and (max-width:768px){iframe, object, embed{width:100%;height:320px}}

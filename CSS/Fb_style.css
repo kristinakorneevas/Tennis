@@ -314,8 +314,8 @@ aside.video-preview {
 
 /*доб: */
 .video-preview > img {
-    width: 880px;
-    height: 600px;
+    width: max-width;
+    height: max-height;
 }
 
 section.photos {

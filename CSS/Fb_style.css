@@ -237,8 +237,8 @@ nav.main-menu ul {
 main {
     min-height: ;
     padding-top: 50px;
-    color: hsl(139, 62%, 80%), 39%, 80%);
-    background-color:#3e975c ;
+    color: hsl(139deg 82.97% 28.13%), 39%, 80%);
+    background-color: #3e975c ;
     background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABlBMVEX///+pqalTpKl9AAAAAnRSTlMAGovxNEIAAAAdSURBVDjLY2AAAUaG4UYxDDsfjfp91O+jfqfE7wCzpQCw/dq+qQAAAABJRU5ErkJggg==");
 }
 
